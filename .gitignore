@@ -1,2 +1,3 @@
 /.venv
-/yolo_weights
+/yolo_weights/*
+*.pt
