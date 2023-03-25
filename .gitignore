@@ -1,3 +1,10 @@
+# folders
 /.venv
-#yolo_weights/
-#*.pt
+yolo_weights/
+
+# model weights
+*.pt
+
+# do not include videos
+*.mp4
+*.png
