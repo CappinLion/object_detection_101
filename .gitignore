@@ -5,6 +5,9 @@ yolo_weights/
 # model weights
 *.pt
 
+# pycache
+*.pyc
+
 # do not include videos
 *.mp4
 *.png
